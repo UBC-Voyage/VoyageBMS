@@ -1,0 +1,133 @@
+Importer Log Report
+Project : LibreSolar_BMS48V.PrjPcb
+
+Section : Analyze Document - C:\Users\steph\OneDrive\Personal_Documents\Spooks\Design Team\BMS\BMS\BMS48V-master (1)\BMS48V-master\LibreSolar_BMS48V.brd
+    Analyzing data of C:\Users\steph\OneDrive\Personal_Documents\Spooks\Design Team\BMS\BMS\BMS48V-master (1)\BMS48V-master\LibreSolar_BMS48V.brd
+    Load settings
+    Load layers 127
+    Load Library "resolut"
+    Load Packages 4
+    Load Library "rcl"
+    Load Packages 7
+    Load Library "PowerMagnetics"
+    Load Packages 1
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 3
+    Load Library "SparkFun-LED"
+    Load Packages 2
+    Load Library "holes"
+    Load Packages 1
+    Load Library "Wire_to_Board_Connectors_rev15d"
+    Load Packages 5
+    Load Library "LibreSolar"
+    Load Packages 7
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Library "crystal"
+    Load Packages 1
+    Load Library "jumper"
+    Load Packages 1
+    Load Library "Testing"
+    Load Packages 1
+    Load Library "pinhead"
+    Load Packages 1
+    Load Library "SparkFun-PowerIC"
+    Load Packages 1
+    Load Library "EAGLE-TACT_SWITCHES-rev16e"
+    Load Packages 1
+    Load Library "SparkFun-DigitalIC"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\steph\OneDrive\Personal_Documents\Spooks\Design Team\BMS\BMS\BMS48V-master (1)\BMS48V-master\LibreSolar_BMS48V.sch
+    Analyzing data of C:\Users\steph\OneDrive\Personal_Documents\Spooks\Design Team\BMS\BMS\BMS48V-master (1)\BMS48V-master\LibreSolar_BMS48V.sch
+    Load settings
+    Load layers 127
+    Load schematic
+    Load Libraries 20
+    Load Library "resolut"
+    Load Packages 20
+    Load Symbols 4
+    Load DeviceSets 4
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "rcl"
+    Load Packages 220
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "SparkFun"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "frames"
+    Load Packages 0
+    Load Symbols 2
+    Load DeviceSets 1
+    Load Library "PowerMagnetics"
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-DiscreteSemi"
+    Load Packages 22
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "SparkFun-Aesthetics"
+    Load Packages 0
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-LED"
+    Load Packages 9
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "holes"
+    Load Packages 10
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Wire_to_Board_Connectors_rev15d"
+    Load Packages 5
+    Load Symbols 3
+    Load DeviceSets 5
+    Load Library "LibreSolar"
+    Load Packages 8
+    Load Symbols 7
+    Load DeviceSets 7
+    Load Library "SparkFun-Connectors"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "crystal"
+    Load Packages 21
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "jumper"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "Testing"
+    Load Packages 3
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "pinhead"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-PowerIC"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "EAGLE-TACT_SWITCHES-rev16e"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "SparkFun-DigitalIC"
+    Load Packages 2
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 3
+    Load Parts 275
+    Load Sheets 2
+EndSection
